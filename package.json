@@ -1,0 +1,19 @@
+{
+  "name": "swarmer",
+  "version": "1.0.0",
+  "description": "Utility to visualise data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jankapusta/swarmer.git"
+  },
+  "author": "Jan Kapusta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jankapusta/swarmer/issues"
+  },
+  "homepage": "https://github.com/jankapusta/swarmer#readme"
+}
