@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/jankapusta/swarmer/issues"
   },
-  "homepage": "https://github.com/jankapusta/swarmer#readme"
+  "homepage": "https://github.com/jankapusta/swarmer#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {
+    //"toxiclibsjs": "^0.3.2"
+  }
 }
